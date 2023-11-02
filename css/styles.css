@@ -381,7 +381,6 @@ img {
 .social-list-item {
     width: 40px;
     height: 40px;
-    gap: 24px;
 }
 
 .social-list-link:hover {
@@ -556,7 +555,7 @@ img {
     color: #FFFFFF;
 }
 
-.social-list {
+.social-list-footer {
     display: flex;
     gap: 16px;
 }
