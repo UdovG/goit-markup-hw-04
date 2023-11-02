@@ -383,7 +383,8 @@ img {
     height: 40px;
 }
 
-.social-list-link:hover {
+.social-list-link:hover,
+.social-list-link:focus {
     background-color: #404BBF;
 }
 
